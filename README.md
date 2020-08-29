@@ -2,9 +2,9 @@
 
 ### Hi 👋
 
-####✨ _Gracias por visitar_ ✨ 
+✨ _Gracias por visitar_ ✨ 
 
-![Gif](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDlHEYp_nh1ikzD-g6JGxnoRlGpwdwMt9Tdw&usqp=CAU)
+![Gif](https://lh3.googleusercontent.com/proxy/5zAkQ8W9kYKMrHtfhhAiYBcWJt2I_PnRBGWxy3JdxqEjkv1jiEoZlOa7RX-_iBwxRlJTCHNIl2ACCQAjfmeA3qOAbcTIABHsQr4)
 
 - 🔭 Soy FrontEnd en construccion :stuck_out_tongue_winking_eye: ...
 - 🌱 Cuido el medio ambiente ...
