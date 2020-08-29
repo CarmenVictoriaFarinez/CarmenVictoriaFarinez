@@ -1,9 +1,11 @@
-### Hi there 👋
 
-<!--
-**CarmenVictoriaFarinez/CarmenVictoriaFarinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi 👋
+
+✨ _Gracias por visitar_ ✨ 
+![Gif](https://www.google.com/url?sa=i&url=http%3A%2F%2Fginga.com.co%2F&psig=AOvVaw3pD9umgPiHKWsu5Y8O_rNE&ust=1598760108744000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDzm9XEv-sCFQAAAAAdAAAAABAK)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
