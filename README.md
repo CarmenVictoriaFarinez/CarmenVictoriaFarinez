@@ -13,7 +13,8 @@
 
 ![Gif2](https://i1.wp.com/media.giphy.com/media/45O9F2aiLOZXy/giphy.gif?resize=250%2C185&ssl=1)
 
-SEamos Sociales :raised_hands:
-[Linkedin] (https://www.linkedin.com/in/engineercvf/)
-[Twitter] (https://twitter.com/Engineer_CvF)
-[Facebook] (https://www.facebook.com/CvF.Engineer/)
+Seamos Sociales :raised_hands:
+-[Linkedin](https://www.linkedin.com/in/engineercvf/)
+-[Twitter](https://twitter.com/Engineer_CvF)
+-[Facebook](https://www.facebook.com/CvF.Engineer/)
+
