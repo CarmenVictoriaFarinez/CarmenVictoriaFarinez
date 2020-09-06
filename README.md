@@ -4,7 +4,7 @@
 
 ✨ _Gracias por visitar_ ✨ 
 
-![Gif](https://lh3.googleusercontent.com/proxy/5zAkQ8W9kYKMrHtfhhAiYBcWJt2I_PnRBGWxy3JdxqEjkv1jiEoZlOa7RX-_iBwxRlJTCHNIl2ACCQAjfmeA3qOAbcTIABHsQr4)
+![Gif](https://image.freepik.com/vector-gratis/programador-estilo-dibujos-animados-trabajando_52683-22693.jpg)
 
 - 🔭 Soy FrontEnd en construccion :stuck_out_tongue_winking_eye: ...
 - 🌱 Cuido el medio ambiente ...
