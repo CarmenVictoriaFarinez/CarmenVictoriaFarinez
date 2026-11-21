@@ -16,25 +16,13 @@
 
 ### 🛠️ Mi Caja de Herramientas
 
-**Lenguajes, Backend & Datos**  
-<p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Python" title="Python" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="FastAPI" title="FastAPI" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Pandas" title="Pandas" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="MariaDB" title="MariaDB" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" title="JavaScript" />
-</p>
 
-**Cloud, DevOps & IA**  
-<p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Docker" title="Docker" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="AWS" title="AWS" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Git" title="Git" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Streamlit" title="Streamlit" />
-</p>
-
-> **Otras herramientas clave:** `ReportLab` · `FPDF` · `PyPDF` · `Hugging Face` · `RAG` · `Ollama` · `Postman` · `Scrum`
+| Área | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Backend & Lenguajes** | `Python` · `FastAPI` · `APIs REST` · `Microservicios` · `Procesos Batch` · `JavaScript` |
+| **Datos & Documentación** | `pandas` · `SQL` · `MySQL` · `MariaDB` · `ETL` · `ReportLab` · `FPDF` · `PyPDF` |
+| **Cloud & DevOps** | `Docker` · `AWS (Lambda, CloudWatch)` · `Git` · `GitHub` · `GitLab` · `Postman` |
+| **IA Aplicada** | `Generative AI` · `AI Agents` · `RAG` · `Hugging Face` · `Ollama` · `Streamlit` |
 
 ---
 
@@ -46,12 +34,5 @@
 ---
 
 ### 🤝 Conectemos
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://jsdelivr.net" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:cvictoriaft@gmail.com">
-    <img src="https://jsdelivr.net" width="36" height="36" alt="Email" title="Email" />
-  </a>
-</p>
+- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/engineercvf/)
+- 📧 **Correo:** cvictoriaft@gmail.com
