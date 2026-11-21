@@ -1,20 +1,47 @@
+<div align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</div>
 
+<p align="center">
+  Ingeniera de Sistemas en Madrid 🇪🇸 apasionada por transformar procesos manuales repetitivos en soluciones automáticas, escalables e inteligentes.
+</p>
 
-### Hi 👋
+---
 
-✨ _Gracias por visitar_ ✨ 
+### 🚀 ¿Qué estoy construyendo?
+- ⚙️ **Automatización y Datos:** Pipelines con **Python y pandas** para validar, limpiar y procesar grandes volúmenes de información (logrando reducir hasta un **80% el trabajo operativo** en generación documental).
+- 🔌 **Backend & Arquitectura:** Desarrollo de **APIs REST con FastAPI**, microservicios, procesos batch e integraciones en **Docker y AWS**.
+- 🤖 **IA Aplicada:** Explorando y construyendo arquitecturas con **Agentes autónomos, sistemas RAG, Ollama y Hugging Face** para conectar modelos de lenguaje con datos reales.
 
-![Gif](https://image.freepik.com/vector-gratis/programador-estilo-dibujos-animados-trabajando_52683-22693.jpg)
+---
 
-- 🔭 Soy FrontEnd en construccion :stuck_out_tongue_winking_eye: ...
-- 🌱 Cuido el medio ambiente ...
-- 👯 Me encanta bailar y escuchar musica ...
-- 😄 Soy Madre :two_hearts: e Ingeniero de profesión :mortar_board: ...
+### 🛠️ Mi Caja de Herramientas
 
-![Gif2](https://i1.wp.com/media.giphy.com/media/45O9F2aiLOZXy/giphy.gif?resize=250%2C185&ssl=1)
+**Lenguajes & Backend**  
+![Python](https://shields.io)
+![FastAPI](https://shields.io)
+![JavaScript](https://shields.io)
 
-Seamos Sociales :raised_hands:
--[Linkedin](https://www.linkedin.com/in/engineercvf/)
--[Twitter](https://twitter.com/Engineer_CvF)
--[Facebook](https://www.facebook.com/CvF.Engineer/)
+**Datos & Documentación**  
+![Pandas](https://shields.io)
+![MySQL](https://shields.io)
+![MariaDB](https://shields.io)
 
+**Cloud, DevOps & IA**  
+![Docker](https://shields.io)
+![AWS](https://shields.io)
+![Hugging Face](https://shields.io)
+![Streamlit](https://shields.io)
+
+---
+
+### ✨ Más allá del código
+- 🎓 Ingeniera de Sistemas y mamá orgullosa 💕
+- 🌱 Comprometida con el cuidado del medio ambiente
+- 🎶 Recargo energías bailando y escuchando buena música
+
+---
+
+### 🤝 Conectemos
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/engineercvf/)
+[![Gmail](https://shields.io)](mailto:cvictoriaft@gmail.com)
