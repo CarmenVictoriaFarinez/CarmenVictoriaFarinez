@@ -34,5 +34,5 @@
 ---
 
 ### 🤝 Conectemos
-- 💼 **LinkedIn:** [(https://www.linkedin.com/in/engineercvf/)]
+- 💼 **LinkedIn:** [linkedin.com/in/engineercvf](https://www.linkedin.com/in/engineercvf/)
 - 📧 **Correo:** cvictoriaft@gmail.com
